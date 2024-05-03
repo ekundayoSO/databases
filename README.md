@@ -7,10 +7,6 @@
 -   https://www.youtube.com/watch?v=9ADd-_mM5Dw&ab_channel=ProgrammingKnowledge
 
 
-# Login to mysql
--   mysql -u root -p
--   password: nike1980
+
 
 # Sakila database
-
-Ilkka.Helio@bc.fi
