@@ -11,7 +11,7 @@
       "driver": "MySQL",
       "database": "persondb",
       "username": "root",
-      "name": "MySQLConnection",
+      "name": "Connection",
       "password": "echo"
     }
   ]
