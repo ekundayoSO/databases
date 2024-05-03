@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+    mysql:
+        container_name: my_mysql
+        environment:
+            - MYSQL_ROOT_PASSWORD=secret
+        ports:
+            - 3333:3306
+        volumes:
+            - $HOME/docshare:$HOME/sql
+        image: mysql:latest
