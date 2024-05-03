@@ -12,7 +12,7 @@
       "database": "persondb",
       "username": "root",
       "name": "MySQLConnection",
-      "password": "nike1980"
+      "password": "echo"
     }
   ]
 }
